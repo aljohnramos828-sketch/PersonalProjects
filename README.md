@@ -36,7 +36,7 @@ The Top 10 Best-Selling Products visualization highlights the products with the 
 2. Category Profitability
 The Profit per Category chart enables comparisons of profit contributions across product categories, helping management identify which categories generate the most profit.
 3. Geographic Profitability
-The Profit per Country visualization, using the City field, supports comparisons of profitability across locations and can help identify stronger and weaker markets.
+The Profit per City, supports comparisons of profitability across locations and can help identify stronger and weaker markets.
 4. Customer Satisfaction and Sales Channels
 The average net sales by customer satisfaction level and channel visualization allows the business to examine whether sales performance differs across customer satisfaction ratings and sales channels.
 
